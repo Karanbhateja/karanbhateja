@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<img align="center" src="https://serving.photos.photobox.com/96410824e9e2eb054f3c5ad6dc6e0ef9d05245a22f933c715abda90bc8cb9056ad20d7f3.jpg" alt="Banner">
 <h1 align="center">Hi 👋, I'm Karan Bhateja</h1>
 <h3 align="center">A Cybersecurity Enthusiast, Graphic Designer and a Photographer from India</h3>
 
