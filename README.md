@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karanbhateja&theme=dark" alt="karanbhateja" /></p>
 
 
-[![@karanbhateja's Holopin board](https://holopin.me/karanbhateja)](https://holopin.io/@karanbhateja)
+[![An image of @karanbhateja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karanbhateja)](https://holopin.io/@karanbhateja)
