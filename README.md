@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github.com/Karanbhateja/karanbhateja/blob/main/Untitled.png?raw=true" alt="Well if you are seeing this then the banner link expired !! Be Patient i will update it soon :)">
 <h1 align="center">Hi 👋, I'm Karan Bhateja</h1>
-<h3 align="center">A Cybersecurity Enthusiast, Graphic Designer and a Photographer from India</h3>
+<h3 align="center">Exploring cybersecurity by crafting intelligent and automated offensive tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karanbhateja&label=Profile%20views&color=0e75b6&style=flat" alt="karanbhateja" /> </p>
 
